@@ -2,5 +2,7 @@
 
 source "https://rubygems.org"
 
+gem "jekyll"
+
 # for demo site
 gem "jekyll-paginate"
