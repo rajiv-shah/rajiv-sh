@@ -6,3 +6,4 @@ gem "jekyll"
 
 # for demo site
 gem "jekyll-paginate"
+gem "jekyll-menus"
