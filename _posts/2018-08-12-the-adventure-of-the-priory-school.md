@@ -3,7 +3,7 @@ title: The Adventure of the Priory School
 author: Arthur Conan Doyle
 category: literature
 layout: post
-chapter: '02'
+chapter: 12
 categories: ''
 
 ---
