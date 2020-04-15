@@ -1,0 +1,30 @@
+---
+label: Chapter post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: author
+  label: author
+- type: text
+  name: categories
+  label: categories
+- name: chapter
+  type: number
+  label: chapter
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+pages:
+- _posts/2018-08-12-the-adventure-of-charles-augustus-milverton.md
+- _posts/2018-08-12-the-adventure-of-the-priory-school.md
+- _posts/2018-08-12-the-adventure-of-the-speckled-band.md

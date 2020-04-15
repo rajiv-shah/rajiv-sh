@@ -3,8 +3,10 @@ title: The Adventure of Charles Augustus Milverton
 layout: post
 author: Arthur Conan Doyle
 category: literature
----
+chapter: 10
+categories: ''
 
+---
 It is years since the incidents of which I speak took place, and yet
 it is with diffidence that I allude to them. For a long time, even
 with the utmost discretion and reticence, it would have been
