@@ -3,7 +3,7 @@ title: The Adventure of the Speckled Band
 author: Arthur Conan Doyle
 category: literature
 layout: post
-chapter: 1
+chapter: '01'
 categories: ''
 
 ---
