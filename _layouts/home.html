@@ -34,6 +34,7 @@ layout: default
 
   {% if site.paginate and site.paginate_path %}
     
+    {% assign sortedPosts = site.posts | sort: "chapter" %}
     <ul class="post-list">
       {% for post in paginator.posts %}
         {% include post-list-item.html %}
