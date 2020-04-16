@@ -32,20 +32,12 @@ layout: default
     {% endif %}
   </h1>
   
-  <ul class="post-list">
-  
-  {{ for site.posts | sort: "chapter" }}
-  {% include post-list-item.html %}
-      {% endfor %}
-    </ul>
-  
-
   {% if site.paginate and site.paginate_path %}
     
     
     <ul class="post-list">
       {% for post in paginator.posts %}
-      {% assign paginator.posts = site.posts | sort: "chapter" %}
+      {{ site.posts | sort: "chapter" }}
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
