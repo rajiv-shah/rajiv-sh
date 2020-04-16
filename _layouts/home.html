@@ -31,13 +31,13 @@ layout: default
       Contents
     {% endif %}
   </h1>
-  
+
   {% if site.paginate and site.paginate_path %}
     
     
     <ul class="post-list">
       {% for post in paginator.posts %}
-      {{ site.posts | sort: "chapter" }}
+      {% assign paginator.posts = site.posts | sort: "chapter" %}
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
