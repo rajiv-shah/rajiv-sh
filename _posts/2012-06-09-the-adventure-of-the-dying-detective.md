@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Adventure of the Dying Detective
+title: The Adventure of the Detective
 author: Arthur Conan Doyle
 categories: literature
 chapter: 13
