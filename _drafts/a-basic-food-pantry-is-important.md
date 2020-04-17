@@ -1,5 +1,5 @@
 ---
-chapter: 2
+chapter: '02'
 title: A basic food pantry is important
 layout: post
 
