@@ -1,7 +1,7 @@
 ---
 chapter: 0
 title: This is not a recipe book
-layout: posts
+layout: post
 
 ---
 I’m not one for recipes anymore. What I’m writing are ideas on making plantbased foods. These ideas are just that—ideas to help you become more confident and creative with your cooking adventures.
