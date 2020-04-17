@@ -1,5 +1,5 @@
 ---
-chapter: 0
+chapter: '00'
 title: This is not a recipe book
 layout: post
 
