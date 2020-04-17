@@ -18,3 +18,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- _posts/this-is-not-a-recipe-book.md
