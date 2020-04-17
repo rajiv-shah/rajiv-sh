@@ -8,12 +8,6 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: text
-  name: author
-  label: author
-- type: text
-  name: categories
-  label: categories
 - name: chapter
   type: number
   label: chapter
