@@ -19,5 +19,6 @@ fields:
     max: 
     step: 
 pages:
+- _posts/a-basic-food-pantry-is-important.md
 - _posts/this-is-not-a-recipe-book.md
 - _posts/tools.md
