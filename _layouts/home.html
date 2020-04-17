@@ -34,7 +34,8 @@ layout: default
 
  
     <ul class="post-list">
-      {% for post in site.posts | sort: "chapter" %}
+      {% assign sorted = site.posts | sort: "chapter" %}
+{% for post in sorted %}
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
