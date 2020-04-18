@@ -12,71 +12,39 @@ The list is not set in stone! You can change it as your tastes and the season ch
 
 You could split the list into sections. For example dry, fresh, frozen, wet. Below I have shared my list with you. It is in no particular order. It does change during the year as it is based on seasonal fresh produce.
 
-\- Sweet potato
-
-\- Onions
-
-\- Tomato
-
-\- Leeks
-
-\- Carrots
-
-\- Frozen peas
-
-\- Broccoli
-
-\- Porridge
-
-\- Walnuts
-
-\- Pappardelle pasta
-
-\- Sweet peppers
-
-\- Salad
-
-\- Olive oil
-
-\- Coconut oil
-
-\- Apple cider vinegar
-
-\- Apples
-
-\- Bananas
-
-\- Chopped dates/apricots
-
-\- Quinoa/couscous/bulgar wheat
-
-\- 100% chocolate buttons
-
-\- Gram flour
-
-\- Split red lentils - dry
-
-\- black eye beans - dry
-
-\- Chickpeas - dry
-
-\- Soya yoghurt
-
-\- Tomato puree
-
-\- Sunflower seeds
-
-\- Pumpkin seeds
-
-\- Tahini
-
-\- Tamari
-
-\- Spelt or buckwheat noodles
-
-\- Spelt flour
-
-\- Date powder
+* Sweet potato
+* Onions
+* Tomato
+* Leeks
+* Carrots
+* Frozen peas
+* Broccoli
+* Porridge
+* Walnuts
+* Pappardelle pasta
+* Sweet peppers
+* Salad
+* Olive oil
+* Coconut oil
+* Apple cider vinegar
+* Apples
+* Bananas
+* Chopped dates/apricots
+* Quinoa/couscous/bulgar wheat
+* 100% chocolate buttons
+* Gram flour
+* Split red lentils - dry
+* Black eye beans - dry
+* Chickpeas - dry
+* Soya yoghurt
+* Tomato puree
+* Sunflower seeds
+* Pumpkin seeds
+* Tahini
+* Tamari
+* Spelt or buckwheat noodles
+* Spelt flour
+* Date powder
 
 With this list I can create a huge range of foods I’d be very happy with.
 
