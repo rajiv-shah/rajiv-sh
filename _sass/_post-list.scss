@@ -1,6 +1,6 @@
 .post-list {
   margin: 1em 0;
-  list-style: none;
+  list-style: circle;
   &:hover,
   &:focus-within {
     .post-link {
