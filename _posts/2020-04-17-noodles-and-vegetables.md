@@ -15,3 +15,5 @@ Heat water in a pan for the noodles. In the meantime sauté thinly sliced ginger
 To the pan with the boiling water add noodles—if I’m making noodles for more than one person I use separate pans for each portion of noodles. Cook for a minute on a low heat and then turn the heat off.
 
 In the serving bowl add chopped pak Choi or kale, strips of carrot, cooked drained noodles, sautéed vegetables, tofu and finally pour the broth into the bowl.
+
+The vegetables are easy to swap out—broccoli, spinach, kale, cabbage, leeks are a few alternatives that come to mind. Use what you like and experiment.
