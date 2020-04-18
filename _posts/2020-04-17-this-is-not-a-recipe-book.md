@@ -4,9 +4,9 @@ title: This is not a recipe book
 layout: post
 
 ---
-I’m not one for recipes anymore. What I’m writing are ideas on making plantbased foods. These ideas are just that—ideas to help you become more confident and creative with your cooking adventures.
+I’m not one for recipes anymore. What I’m writing are ideas on making plant-based foods. These ideas are just that—ideas to help you become more confident and creative with your cooking adventures.
 
-They are not the definitive guide to plantbased cooking but a starting point from my perspective. I don’t use exact measurements or times—everything is vague. Making up things as you cook is one of the best things I ever adopted in my cooking. This forces you to use what you have and not worry about what you don’t have.
+They are not the definitive guide to plant-based cooking but a starting point from my perspective. I don’t use exact measurements or times—everything is vague. Making up things as you cook is one of the best things I ever adopted in my cooking. This forces you to use what you have and not worry about what you don’t have.
 
 My ideas are simple and use everyday ingredients in most cases. You are encouraged to use alternatives. If I say kale and you have spinach or cabbage use them instead. Don’t like chilli—leave it out. I love using apple cider vinegar but you may only have lemons—go for it.
 
