@@ -11,3 +11,5 @@ They are not the definitive guide to plant-based cooking but a starting point fr
 My ideas are simple and use everyday ingredients in most cases. You are encouraged to use alternatives. If I say kale and you have spinach or cabbage use them instead. Don’t like chilli—leave it out. I love using apple cider vinegar but you may only have lemons—go for it.
 
 Play with the ingredients—discover new combinations. That’s the only way you’ll find the one you like. **Own the food you make**. That is the way you will become more confident in making food. Many things will become second nature—like flavour/texture combinations, quantities and cooking times. When you look at what you have in your basic pantry, ideas for what to make will become easy.
+
+Want to have a conversation about the plant-based ideas contact me at hello + web address. 
