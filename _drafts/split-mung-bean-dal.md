@@ -1,7 +1,7 @@
 ---
-chapter: 
+chapter: '088'
 title: Split mung bean dal
-layout: ''
+layout: post
 
 ---
 My favourite is made with split red lentils. I’ve discovered another one that I will make from now on. Split mung bean dal with broccoli.
