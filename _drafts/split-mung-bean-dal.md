@@ -4,7 +4,7 @@ title: Split mung bean dal
 layout: post
 
 ---
-My favourite dal is made with split red lentils. I’ve discovered another one that I will make from now on. Split mung bean dal with broccoli.
+My favourite dal is made with split red lentils. I’ve discovered another one that I will make often. Split mung bean dal with broccoli.
 
 In a pan steam some broccoli—I used about two heads. Once done you want to purée the broccoli in a blender with some smoked paprika, apple cider vinegar and salt. Set aside while you make the split mung bean dal. You need to blend the broccoli well to use it as part of the sauce for the dal.
 
