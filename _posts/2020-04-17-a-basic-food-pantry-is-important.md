@@ -54,4 +54,4 @@ The above is not an exhaustive list. I buy them as and when I need them. Sometim
 
 Having a basic pantry for me now is second nature. I don't have it written down anywhere. It is all in my head. I know what I need, when and where I need to get them from.
 
-However, writing down what you need is a good idea. It will help create a better shopping and meal planning list. It will help to identify the best place to buy ingredients from. The dry pulses and lentils I buy from an Indian grocery shop because it will be cheaper. The bulk of fruit and vegetables I buy from the market. Most of the organic items, I buy from the health food store or online. Everything else will be from the supermarket.
+However, writing down what you need is a good idea. It will help create a better shopping and meal planning list. It will help to identify the best place to buy ingredients from. The dry pulses and lentils I buy from an Indian grocery shop because it will be cheaper. The bulk of fruit and vegetables I buy from the wholefood coop. Most of the organic items, I buy from the health food store or online. Everything else will be from the supermarket.
